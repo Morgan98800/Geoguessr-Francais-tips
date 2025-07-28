@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Geoguessr-Francais-tips/static/css/main.e6c13ad2.css",
-    "main.js": "/Geoguessr-Francais-tips/static/js/main.b350819d.js",
+    "main.js": "/Geoguessr-Francais-tips/static/js/main.b862d85f.js",
     "static/js/453.7e6c4e79.chunk.js": "/Geoguessr-Francais-tips/static/js/453.7e6c4e79.chunk.js",
     "index.html": "/Geoguessr-Francais-tips/index.html",
     "main.e6c13ad2.css.map": "/Geoguessr-Francais-tips/static/css/main.e6c13ad2.css.map",
-    "main.b350819d.js.map": "/Geoguessr-Francais-tips/static/js/main.b350819d.js.map",
+    "main.b862d85f.js.map": "/Geoguessr-Francais-tips/static/js/main.b862d85f.js.map",
     "453.7e6c4e79.chunk.js.map": "/Geoguessr-Francais-tips/static/js/453.7e6c4e79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b350819d.js"
+    "static/js/main.b862d85f.js"
   ]
 }
